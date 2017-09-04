@@ -213,6 +213,17 @@ img {
   }
 }
 
+nav {
+  background-color: #373737;
+  text-align:center;
+  color: #Dcd0c0;
+  font-family: Arvo;
+  font-size: 18px;
+  width: 100%;
+    @mobile {
+      font-size:16px
+  }
+
 ul {
   list-style-type: none;
   margin-top: 0px;
