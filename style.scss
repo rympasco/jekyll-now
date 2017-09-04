@@ -201,7 +201,10 @@ img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
-	text-align: right;
+  text-align: right;
+	@include mobile {
+		text-align: center;
+	}
 }
 
 .site-description {
@@ -211,6 +214,7 @@ img {
 
   @include mobile {
     margin: 3px 0;
+	  text-align: center;
   }
 }
 
