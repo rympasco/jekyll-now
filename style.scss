@@ -20,8 +20,6 @@ html {
 
 body {
 	background: #f4f4f4;
-	margin-right: 2.5%;
-	margin-left: 2.5%;
   font: 18px/1.4 Old Standard TT;
   color: #373737;
 }
@@ -153,7 +151,8 @@ img {
 }
 
 .masthead {
-  background-color: #373737;
+ 	width:100%;
+	background-color: #373737;
 	color: #f4f4f4;
 	padding: 20px 0;
 
@@ -166,7 +165,7 @@ img {
   float: left;
   width: 70px;
   height: 70px;
-  margin-right: 15px;
+  margin-left: 15px;
 
   @include mobile {
     float: none;
@@ -217,6 +216,7 @@ nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: Arvo;
   font-size: 18px;
+	margin-right: 15px;
 
   @include mobile {
     float: none;
