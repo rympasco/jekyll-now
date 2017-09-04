@@ -101,6 +101,11 @@ footer {
   color: #373737;
 }
 
+h1, h2, p {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
 h1 {
   color:inherit;
   font-family: Arvo;
