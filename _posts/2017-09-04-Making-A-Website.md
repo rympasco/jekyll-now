@@ -1,0 +1,12 @@
+---
+published: false
+---
+# Making A Website
+
+This summer, I had the opportunity to attend [HILT 2017](http://www.dhtraining.org/hilt2017/), a conference that brings together those "who seek to learn more about Digital Humanities theory, practice, and culture." I was unsure what to expect; while the term 'digital humanities' was familiar enough, I have had little exposure to DH projects and little sense of what use DH might be to my own [research interests](rympasco.github.io). I signed up for the most ground-level course on the list &mdash; an [introductory coding course](http://www.dhtraining.org/hilt2017/course/humanities-programming/) for humanists &mdash; and figured I'd at least end up with a better understanding of what DH is all about. 
+
+The course charged through enough basic HTML/CSS and Python in order to learn skills like web scraping and basic text analysis. There's no need to dwell too much on the details. I'd recommend the course, if you're able to attend HILT next summer. It was remarkably accessible, especially considering the overall pace; plus, the instructors, [Brandon Walsh](twitter.com/walshbr) and [Ethan Reed] (twitter.com/reedeth), were stellar. 
+
+Just as valuable was the chance to sit down with other professionals from a variety of fields &emdash; researchers, librarians, graduate students, professors, etc. &emdash; and hear about their DH projects. As someone with little exposure to these sorts of projects, it was exciting. I emerged with a better sense of what DH might offer my research and have since come up with plenty of ideas for future projects which I hope, going forward, to share on this page. I've also thought more about building and maintaining a web presence, both as a form of networking and as an opportunity to work on building digital skills. 
+
+And so, over the last week, I've been working on designing this webpage. It was a valuable exercise in practicing basic HTML/CSS. If anyone has any critiques or suggestions, especially regarding how the site works on mobile/tablet, let me know! 
