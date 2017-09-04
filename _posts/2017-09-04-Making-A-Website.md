@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # Making A Website
 
@@ -9,4 +9,4 @@ The course charged through enough basic HTML/CSS and Python in order to learn sk
 
 Just as valuable was the chance to sit down with other professionals from a variety of fields &emdash; researchers, librarians, graduate students, professors, etc. &emdash; and hear about their DH projects. As someone with little exposure to these sorts of projects, it was exciting. I emerged with a better sense of what DH might offer my research and have since come up with plenty of ideas for future projects which I hope, going forward, to share on this page. I've also thought more about building and maintaining a web presence, both as a form of networking and as an opportunity to work on building digital skills. 
 
-And so, over the last week, I've been working on designing this webpage. It was a valuable exercise in practicing basic HTML/CSS. If anyone has any critiques or suggestions, especially regarding how the site works on mobile/tablet, let me know! 
+And so, over the last week, I've been working on designing this webpage. It was a valuable exercise in practicing basic HTML/CSS. If anyone has any critiques or suggestions, especially regarding how the site works on mobile/tablet, let me know!
