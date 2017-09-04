@@ -24,7 +24,7 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: inherit;
-  font-size: 2em;
+  font-size: 1em;
 }
 
 li {
@@ -99,7 +99,7 @@ footer {
   background-color:#c0B283;
   font-family: Old Standard TT;
   color: #373737;
-  font-size: 1.5em;
+  font-size: 1em;
 }
 
 h1, h2, p {
@@ -159,7 +159,7 @@ h2 {
   }
   
  .fa {
-  width: 20px;
+  width: 40px;
   height: 20px;
   }
 }
