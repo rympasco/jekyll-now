@@ -36,7 +36,6 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: Arvo;
   color: #373737;
-  font-weight: bold;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -154,8 +153,9 @@ img {
 }
 
 .masthead {
-  padding: 20px 0;
-  border-bottom: 1px solid #373737;
+  background-color: #373737;
+	color: #f4f4f4
+	padding: 20px 0;
 
   @include mobile {
     text-align: center;
@@ -180,7 +180,7 @@ img {
 }
 
 .site-info {
-  float: left;
+  float: right;
 
   @include mobile {
     float: none;
@@ -191,7 +191,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: #373737;
+  color: #f4f4f4;
   cursor: pointer;
   font-family: Arvo;
   font-weight: 300;
@@ -201,7 +201,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #373737;
+  color: #f4f4f4;
   font-size: 16px;
 
   @include mobile {
@@ -213,7 +213,7 @@ nav {
 	
   text-align:center;
   color: #Dcd0c0;
-  float: right;
+  float: left;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: Arvo;
   font-size: 18px;
