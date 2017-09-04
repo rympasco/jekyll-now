@@ -151,7 +151,8 @@ img {
 }
 
 .masthead {
- 	width:100%;
+ 	max-width:none;
+	width:100%;
 	background-color: #373737;
 	color: #f4f4f4;
 	padding: 20px 0;
