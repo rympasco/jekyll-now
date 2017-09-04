@@ -71,8 +71,11 @@ nav {
   text-align:center;
   color: #Dcd0c0;
   font-family: Arvo;
-  font-size: 1em;
-  width: 100%
+  font-size: 18px;
+  width: 100%;
+    @mobile {
+      font-size:16px
+  }
 }
 
 header {
