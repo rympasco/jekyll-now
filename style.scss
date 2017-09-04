@@ -20,7 +20,7 @@ html {
 
 body {
 	background: #f4f4f4;
-  font: 18px/1.4 $Arvo;
+  font: 18px/1.4 $serif;
   color: #373737;
 }
 
@@ -32,8 +32,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
+  font-family: $serif;
+  color: #373737;
   font-weight: bold;
 
   line-height: 1.7;
@@ -46,24 +46,20 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 2em;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 1.5em;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 1.2em;
 }
 
-h4 {
-  font-size: 18px;
-  color: $gray;
-}
 
 p {
   margin: 15px 0;
@@ -157,7 +153,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid #373737;
 
   @include mobile {
     text-align: center;
@@ -193,7 +189,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: #373737;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -203,7 +199,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: #373737;
   font-size: 16px;
 
   @include mobile {
@@ -274,9 +270,9 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  border-top: 1px solid #c0B283;
+  border-bottom: 1px solid #c0B283;
+  background-color: #c0B283;
 }
 
 footer {
