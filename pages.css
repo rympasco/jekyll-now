@@ -144,7 +144,7 @@ h2 {
       "header"
       "content"
       "footer"
-    grid-template-rows: 80px 1fr 70px;
+    grid-template-rows: 80px 1fr 150px;
   }
 
   content {
@@ -155,7 +155,9 @@ h2 {
 
   li a {
     padding: 20px 30px;
+    font-size: 16px;
   }
+  
  .fa {
   width: 20px;
   height: 20px;
