@@ -6,7 +6,7 @@
 name: Ryan M. Pasco
 
 # Short bio or description (displayed in the header)
-description: Classicst at Boston University
+description: Classicist at Boston University
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/rympasco
@@ -31,7 +31,8 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
-theme: minimal
+  theme: minimal
+
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
 disqus:
@@ -53,7 +54,7 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-permalink: :title
+permalink: /blog/:title
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
