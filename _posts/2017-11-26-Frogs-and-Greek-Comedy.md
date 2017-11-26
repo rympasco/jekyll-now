@@ -17,4 +17,4 @@ To help us begin to tackle this, let's look at the parabasis of *Frogs*. Accordi
 
 ![FrogsParabasis2](https://www.rympasco.github.io/images/FrogsParabasis2.png)
 
-What advice does the chorus leader give to the city? 
+What advice does the chorus leader give to the city? What does this tell us about the role of comedy in political life? What about 
