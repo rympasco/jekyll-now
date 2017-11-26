@@ -11,4 +11,10 @@ Today we'll be discussing Aristophanes' *Frogs*. But first, a few announcements:
 ## Frogs ##
 As we discuss *Frogs* today, I'd like to consider the following question:**what is the role of comedy in the *polis*?**
 
-To help us begin to tackle this, let's look at the parabasis of *Frogs*. In particular, the two speeches of the chorus leader.
+To help us begin to tackle this, let's look at the parabasis of *Frogs*. According to ancient testimony, the Athenians voted that this play be reperformed because of the parabasis. In particular, let's look at the two speeches of the chorus leader:
+
+![FrogsParabasis1](https://www.rympasco.github.io/images/FrogsParabasis1.png)
+
+![FrogsParabasis2](https://www.rympasco.github.io/images/FrogsParabasis2.png)
+
+What advice does the chorus leader give to the city? 
