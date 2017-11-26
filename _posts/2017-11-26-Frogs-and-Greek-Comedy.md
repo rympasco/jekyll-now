@@ -17,4 +17,16 @@ To help us begin to tackle this, let's look at the parabasis of *Frogs*. Accordi
 
 ![FrogsParabasis2](https://www.rympasco.github.io/images/FrogsParabasis2.png)
 
-What advice does the chorus leader give to the city? What does this tell us about the role of comedy in political life? What about 
+What advice does the chorus leader give to the city? What does this tell us about the role of comedy in political life? What about *Lysistrata*?
+
+**INSERT PASSAGE FROM LYSISTRATA**
+
+Think more broadly of Greek comedy. Based on what you know, what function in society do you think it serve?
+
+-Carnival: the release of social tensions.
+-Political agenda
+-Entertainment
+-Religious function
+
+## Greek Comedy in Contemporary Society ##
+
