@@ -10,6 +10,11 @@ Today we'll be discussing Aristophanes' *Frogs*. But first, a few announcements:
 
 ## Frogs ##
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=yYYQIn_sC-4
+" target="_blank"><img src="http://img.youtube.com/vi/yYYQIn_sC-4/0.jpg" 
+alt="BBC 1986: Dialogue" width="480" height="360" border="10" /></a>
+*An adaptation of* Frogs *at Cambridge University*.
+
 As we discuss *Frogs* today, I'd like to consider the following question:**what is the role of comedy in the *polis*?**
 
 To help us begin to tackle this, let's look at the parabasis of *Frogs*. According to ancient testimony, the Athenians voted that this play be reperformed because of the parabasis. In particular, let's look at the two speeches of the chorus leader:
