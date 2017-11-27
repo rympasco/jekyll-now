@@ -19,17 +19,31 @@ We spent our last section asking the question: 'how would you adapt *Antigone* f
 " target="_blank"><img src="http://img.youtube.com/vi/yYYQIn_sC-4/0.jpg" 
 alt="Frogs Cambridge U" width="480" height="360" border="10" /></a>
 
-Does this capture the feeling of *Frogs*?
+What challenges might you face adapting *Frogs* for a modern audience? How would you adapt the contest between Aeschylus and Euripides? 
 
-Let's look at an adaptation by composer Stephen Sondheim:
+Aeschylus is:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=ACz6wE4K4eI
-" target="_blank"><img src="http://img.youtube.com/vi/ACz6wE4K4eI/0.jpg" 
-alt="Sondheim Frogs" width="480" height="360" border="10" /></a>
+- Old-fashioned
 
-What challenges might you face adapting *Frogs* for a modern audience? How would you adapt the contest between Aeschylus and Euripides? What similar poets/performers might you pick? 
+- Martial themes
 
-In his adaptation, Sondheim chooses replaces Aeschylus with Shakespeare and Euripides with George Bernard Shaw. 
+- Elevated Style
+
+- Heroic characters
+
+Euripides: 
+
+- New-fangled
+
+- Associated with rhetoric/'intellectual'
+
+- Lower, more colloquial style
+
+- Gives prominent speaking roles to women, slaves, etc.
+
+**What similar poets/performers might you pick?**
+
+Stephen Sondheim's 1974 adaptation replaces Aeschylus with Shakespeare and Euripides with George Bernard Shaw. 
 
 ## *Frogs* and Politics ##
 
@@ -60,9 +74,6 @@ Think more broadly of Greek comedy. Imagine you're a budding Athenian intellectu
 Is there any modern equivalent to Greek comedy?
 
 **Take a minute and try to think of some examples**.
-
-
-
 
 
 Here are two comparisons that come to my mind:
