@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-Today we'll be discussing Aristophanes' *Frogs*. 
+Today we'll be discussing Aristophanes' *Frogs*. Along the lines of last week, we'll first think about the challenges of adapting *Frogs* for a modern audience, in particular the contest between Aeschylus and Euripides. Then, we'll think about Greek Comedy's role in the *polis*.
 
 But first, a few announcements:
 
