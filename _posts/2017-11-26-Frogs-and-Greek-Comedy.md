@@ -25,7 +25,11 @@ In our discussion, I'd like to consider the following question: **what is the ro
 
 ![FrogsParabasis2](https://rympasco.github.io/images/FrogsParabasis2.png)
 
-What advice does the chorus leader give to the city? What does this tell us about the role or status of comedy in political life? What about *Lysistrata*?
+- What advice does the chorus leader give to the city? 
+
+- What does this tell us about the role or status of comedy in political life?
+
+- Imagine you're a Greek citizen in the audience, watching this comedy. Would you take this political message seriously?
 
 ![Lysistrata1](http://rympasco.github.io/images/Lysistrata1.png)
 
