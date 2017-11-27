@@ -25,9 +25,10 @@ To help us begin to tackle this, let's look at the parabasis of *Frogs*. Accordi
 
 What advice does the chorus leader give to the city? What does this tell us about the role or status of comedy in political life? What about *Lysistrata*?
 
-**INSERT PASSAGE FROM LYSISTRATA**
+![Lysistrata1](https://www.rympasco.github.io/images/Lysistrata1.png)
+*Trans. Ian Johnston, 2008.*
 
-Think more broadly of Greek comedy. Based on what you know, what function in society do you think it serve?
+Think more broadly of Greek comedy. Based on what you know, what function in society do you think it serves? Or, put another way, imagine you're a clever Athenian. Why write comedy instead of tragedy, history, or anything else? What can comedy do that's 
 
 -Carnival: the release of social tensions.
 -Political agenda
