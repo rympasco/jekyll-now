@@ -5,11 +5,11 @@ Today we'll be discussing Aristophanes' *Frogs*.
 
 But first, a few announcements:
 
--There will be a quiz next week, **Monday, December 4th**.
+- There will be a quiz next week, **Monday, December 4th**.
 
--Your final paper is due at our last class **Monday, December 11th**.
+- Your final paper is due at our last class **Monday, December 11th**.
 
--Final exam review during the reading period (**Wednesday the 13th - Friday the 15th**).
+- Final exam review during the reading period (**Wednesday the 13th - Friday the 15th**).
 
 ## Staging the *Frogs* ##
 
