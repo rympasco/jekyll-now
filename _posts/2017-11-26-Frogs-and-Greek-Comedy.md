@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Today we'll be discussing Aristophanes' *Frogs*. But first, a few announcements:
 
@@ -41,6 +41,7 @@ Is there any modern equivalent to Greek comedy?
 
 **Take a minute and try to think of some examples**.
 
+Here are two comparisons that come to my mind:
 ### South Park
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=TlqKFlU7YAs
 " target="_blank"><img src="http://img.youtube.com/vi/TlqKFlU7YAs/0.jpg" 
