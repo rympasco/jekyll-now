@@ -28,7 +28,7 @@ What advice does the chorus leader give to the city? What does this tell us abou
 ![Lysistrata1](https://www.rympasco.github.io/images/Lysistrata1.png)
 *Trans. Ian Johnston, 2008.*
 
-Think more broadly of Greek comedy. Based on what you know, what function in society do you think it serves? Or, put another way, imagine you're a clever Athenian. Why write comedy instead of tragedy, history, or anything else? What can comedy do that's 
+Think more broadly of Greek comedy. Based on what you know, what function in society do you think it serves?
 
 -Carnival: the release of social tensions.
 -Political agenda
@@ -37,6 +37,9 @@ Think more broadly of Greek comedy. Based on what you know, what function in soc
 
 ## Greek Comedy in Contemporary Society ##
 
-SOUTH PARK CLIP
+South Park
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=TlqKFlU7YAs
+" target="_blank"><img src="http://img.youtube.com/vi/TlqKFlU7YAs/0.jpg" 
+alt="BBC 1986: Dialogue" width="480" height="360" border="10" /></a>
 
 
