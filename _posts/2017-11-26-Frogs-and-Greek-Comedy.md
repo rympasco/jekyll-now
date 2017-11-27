@@ -41,7 +41,7 @@ Think more broadly of Greek comedy. Imagine you're a budding Athenian intellectu
 
 -Religious function
 
-## Greek Comedy in Contemporary Society ##
+## Greek Comedy & Contemporary Society ##
 
 Is there any modern equivalent to Greek comedy?
 
