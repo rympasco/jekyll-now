@@ -13,7 +13,7 @@ But first, a few announcements:
 
 ## Staging the *Frogs* ##
 
-We spent our last section asking the question: 'how would you adapt *Antigone* for a modern audience?' In a similar vein, I'd like to kick off class watching a scene from a performance of *Frogs* performed at Cambridge University. 
+We spent our last section asking the question: 'how would you adapt *[Antigone](https://rympasco.github.io/Antigone "Antigone")* for a modern audience?' In a similar vein, I'd like to kick off class watching a scene from a performance of *Frogs* performed at Cambridge University. 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=yYYQIn_sC-4
 " target="_blank"><img src="http://img.youtube.com/vi/yYYQIn_sC-4/0.jpg" 
