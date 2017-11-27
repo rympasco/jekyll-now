@@ -10,7 +10,7 @@ But first, a few announcements:
 
 -Your final paper is due at our last class **Monday, December 11th**.
 
--Final exam review during the reading period, **Wednesday the 13th - Friday the 15th**.
+-Final exam review during the reading period (**Wednesday the 13th - Friday the 15th**).
 
 ## Frogs ##
 
@@ -30,14 +30,17 @@ To help us begin to tackle this, let's look at the parabasis of *Frogs*. Accordi
 
 What advice does the chorus leader give to the city? What does this tell us about the role or status of comedy in political life? What about *Lysistrata*?
 
-![Lysistrata1](https://www.rympasco.github.io/images/Lysistrata1.png)
+![Lysistrata1](http://www.rympasco.github.io/images/Lysistrata1.png)
 *Trans. Ian Johnston, 2008.*
 
 Think more broadly of Greek comedy. Imagine you're a budding Athenian intellectual and want to prove your literary talents. What can writing comedy offer you that other genres (tragedy, history, etc.) can't? If you're an Athenian, why go watch comedies?
 
 -Carnival: the release of social tensions.
+
 -Political agenda
+
 -Entertainment
+
 -Religious function
 
 ## Greek Comedy in Contemporary Society ##
