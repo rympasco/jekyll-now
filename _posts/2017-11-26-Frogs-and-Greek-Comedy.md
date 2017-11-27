@@ -12,7 +12,7 @@ Today we'll be discussing Aristophanes' *Frogs*. But first, a few announcements:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=yYYQIn_sC-4
 " target="_blank"><img src="http://img.youtube.com/vi/yYYQIn_sC-4/0.jpg" 
-alt="BBC 1986: Dialogue" width="480" height="360" border="10" /></a>
+alt="Frogs Cambridge U" width="480" height="360" border="10" /></a>
 *An adaptation of* Frogs *at Cambridge University*.
 
 As we discuss *Frogs* today, I'd like to consider the following question:**what is the role of comedy in the *polis*?**
@@ -37,9 +37,17 @@ Think more broadly of Greek comedy. Based on what you know, what function in soc
 
 ## Greek Comedy in Contemporary Society ##
 
-South Park
+Is there any modern equivalent to Greek comedy?
+
+**Take a minute and try to think of some examples**.
+
+### South Park
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=TlqKFlU7YAs
 " target="_blank"><img src="http://img.youtube.com/vi/TlqKFlU7YAs/0.jpg" 
-alt="BBC 1986: Dialogue" width="480" height="360" border="10" /></a>
+alt="South Park Politics" width="480" height="360" border="10" /></a>
 
+### Monty Python
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Ka9mfZbTFbk
+" target="_blank"><img src="http://img.youtube.com/vi/Ka9mfZbTFbk/0.jpg" 
+alt="Monty Python" width="480" height="360" border="10" /></a>
 
