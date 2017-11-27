@@ -11,13 +11,27 @@ But first, a few announcements:
 
 -Final exam review during the reading period (**Wednesday the 13th - Friday the 15th**).
 
-## Frogs ##
+## Staging the *Frogs* ##
+
+We spent our last section asking the question: 'how would you adapt *Antigone* for a modern audience?' In a similar vein, I'd like to kick off class watching a scene from a performance of *Frogs* performed at Cambridge University. 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=yYYQIn_sC-4
 " target="_blank"><img src="http://img.youtube.com/vi/yYYQIn_sC-4/0.jpg" 
 alt="Frogs Cambridge U" width="480" height="360" border="10" /></a>
 
-*An adaptation of* Frogs *at Cambridge University*.
+Does this capture the feeling of *Frogs*?
+
+Let's look at an adaptation by composer Stephen Sondheim:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ACz6wE4K4eI
+" target="_blank"><img src="http://img.youtube.com/vi/ACz6wE4K4eI/0.jpg" 
+alt="Sondheim Frogs" width="480" height="360" border="10" /></a>
+
+What challenges might you face adapting *Frogs* for a modern audience? How would you adapt the contest between Aeschylus and Euripides? What similar poets/performers might you pick? 
+
+In his adaptation, Sondheim chooses replaces Aeschylus with Shakespeare and Euripides with George Bernard Shaw. 
+
+## *Frogs* and Politics ##
 
 In our discussion, I'd like to consider the following question: **what is the role of comedy in the *polis*?** According to ancient testimony, the Athenians voted that this play be reperformed due to the contents of the parabasis. Let's take a look then. In particular, let's look at the two speeches of the chorus leader:
 
@@ -30,10 +44,6 @@ In our discussion, I'd like to consider the following question: **what is the ro
 - What does this tell us about the role or status of comedy in political life?
 
 - Imagine you're a Greek citizen in the audience, watching this comedy. Would you take this political message seriously?
-
-![Lysistrata1](http://rympasco.github.io/images/Lysistrata1.png)
-
-*Trans. Ian Johnston, 2008.*
 
 Think more broadly of Greek comedy. Imagine you're a budding Athenian intellectual and want to prove your literary talents. What can writing comedy offer you that other genres (tragedy, history, etc.) can't? If you're an Athenian, why go watch comedies?
 
@@ -50,6 +60,10 @@ Think more broadly of Greek comedy. Imagine you're a budding Athenian intellectu
 Is there any modern equivalent to Greek comedy?
 
 **Take a minute and try to think of some examples**.
+
+
+
+
 
 Here are two comparisons that come to my mind:
 ### South Park
