@@ -1,11 +1,10 @@
 ---
 published: true
 ---
-Today we'll be discussing Aristophanes' *Frogs*. In our discussion, I'd like to consider the following question: **what is the role of comedy in the *polis*?**
+Today we'll be discussing Aristophanes' *Frogs*. 
 
 But first, a few announcements:
 
-## Announcements and Due Dates ##
 -There will be a quiz next week, **Monday, December 4th**.
 
 -Your final paper is due at our last class **Monday, December 11th**.
@@ -20,9 +19,7 @@ alt="Frogs Cambridge U" width="480" height="360" border="10" /></a>
 
 *An adaptation of* Frogs *at Cambridge University*.
 
-As we discuss *Frogs* today, I'd like to consider the following question: **what is the role of comedy in the *polis*?**
-
-To help us begin to tackle this, let's look at the parabasis of *Frogs*. According to ancient testimony, the Athenians voted that this play be reperformed because of the parabasis. In particular, let's look at the two speeches of the chorus leader:
+In our discussion, I'd like to consider the following question: **what is the role of comedy in the *polis*?** According to ancient testimony, the Athenians voted that this play be reperformed due to the contents of the parabasis. Let's take a look then. In particular, let's look at the two speeches of the chorus leader:
 
 ![FrogsParabasis1](https://rympasco.github.io/images/FrogsParabasis1.png)
 
